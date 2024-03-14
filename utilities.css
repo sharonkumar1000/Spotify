@@ -1,0 +1,20 @@
+.flex{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.flexc{
+    display:flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.flexr{
+    display:flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.img{
+    width:44px;
+    height:24px;
+}
